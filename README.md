@@ -24,7 +24,7 @@ Wabbajack Modlist Installer by Althro with support from Aetherius Modding.
 
 ## Preamble
 
-**Anvil** is designed as a baseline list to be used as either a forking base for a list or a mod development base. It comes with **two** profiles, aptly named **"Anvil - Forge"** and **"Anvil - Core"**.
+**Anvil** is designed as a baseline list to be used as either a forking base for a list or a mod development base. It is fully documented with all changes and tweaks being present in the notes section of MO2, and comes with **two** profiles, aptly named **"Anvil - Forge"** and **"Anvil - Core"**.
 
 **Forge** comes with all the libraries a plugin developer would need and also includes the Creation Kit with [Creation Kit Platform Extended](https://www.nexusmods.com/skyrimspecialedition/mods/71371) configured and working. It serves as the replacement to [Althro's Dev Tools](https://github.com/Althro/ADT).
 
