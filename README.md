@@ -38,11 +38,11 @@ Owing to the need to clean master files and certain errors with Wabbajack, Anvil
 
 Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Linux compatability is **not possible** at this time owing to certain libraries not present in Wine/Proton required for MO2.
 
-Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and ram is needed.
+Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
 ### Recommended System Requirements
 
-Anvil requires a mid tier modern system to run to it's fullest potential. The recommended specs given below are based on utilising the ENB in the list. For community shaders, you can subtract a little bit off them.
+Anvil requires a mid-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list. For community shaders, you can subtract a little bit from them.
 
 | Component    | Recommended | 
 |:--------------:|:-------------:|
@@ -70,7 +70,7 @@ Prior to installing Anvil, please complete the following steps.
 4. Fully disable OneDrive and any other programs which hook into user file areas.
 5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation. **DO NOT LAUNCH THE GAME TO GET THE CC CONTENT - Anvil requires a totally stock installation.**
-7. Install the [Creation Kit on steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/).
+7. Install the [Creation Kit on Steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/).
 8. Run it once and select `NO` when it asks about unpacking scripts. They are handled by ADT already.
 9. Close the creation kit and continue with the installation steps.
 10. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
@@ -104,8 +104,8 @@ Downloading and installing Anvil can take a while depending on your internet con
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
 - Could not download x:
-	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
-    - Ensure your version of Curios matches the one used in Anvil. **It has to be the one from Steam, not the one from in game**.
+	- Big files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+    - Ensure your version of Curios matches the one used in Anvil. **It has to be the one from Steam, not the one from in-game**.
 
 - x is not a whitelisted download:
 
@@ -117,15 +117,15 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Antivirus reports a virus:
 	- You did not follow the steps in [Pre-Installation](#pre-installation). Go back and follow it.
-	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Post-Installation
 
 ### Stock Game & Root Builder
 
-Anvil utilises a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatability with other mod-lists.
+Anvil utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
 
-Anvil also utilises Root Builder alongside Stock Game to enable easier management of hooks such as Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
+Anvil also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
 
 ### Post Processing
@@ -148,20 +148,20 @@ The list also comes with [Community Shaders (CS)](https://www.nexusmods.com/skyr
 
 To enable 21x9 ultrawide support, activate the two mods tagged `21x9` under `UI Fixes [Forge & Core]`. **NOTE**: Resolutions outside of 21x9 and 16x9 are **NOT** supported.
 
-### Realtime performance monitoring
+### Real-time performance monitoring
 
-Anvil includes a mod which enables you to see your FPS and VRAM usage in realtime. To disable this, deactivate the mod called `OSD Font for SSE Display Tweaks`. **NOTE**: This comes enabled by default.
+Anvil includes a mod that enables you to see your FPS and VRAM usage in real-time. To disable this, deactivate the mod called `OSD Font for SSE Display Tweaks`. **NOTE**: This comes enabled by default.
 
 ***
 
 ### Starting up the list
-Open the installation folder and double click on the program called `ModOrganizer.exe`. 
+Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
 Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
 
-### In-Game MCM options
+### In-game MCM options
 
-Anvil has no required MCM options to be selected, however you can load the smoothcam preset if you wish to do so.
+Anvil has no required MCM options to be selected; however, you can load the smoothcam preset if you wish to do so.
 
 - SmoothCam
 	- Load Preset
@@ -198,10 +198,10 @@ Simply delete the folder, and you have uninstalled it.
 - The Aetherius Modding Team.
 - The beta testers on Aetherius Modding.
 - Noggog for Mutagen.
-- xSlim for Proofreeading documentation.
+- xSlim for proofreading documentation.
 - Umgak for help patching.
-- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
+- Halgari and everyone on the WJ Team - Wabbajack is awesome and so are you.
 
 ## Contact
 
-Whilst I am available primarily on [my server](https://discord.gg/xRrHRsb5e9), please check the [issues](https://github.com/Althro/Anvil/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
+Whilst I am available primarily on [my server](https://discord.gg/xRrHRsb5e9), please check the [issues](https://github.com/Althro/Anvil/issues) tab on GitHub first if you have any issues. DO NOT DM ME ON DISCORD.
