@@ -198,7 +198,7 @@ Simply delete the folder, and you have uninstalled it.
 - The Aetherius Modding Team.
 - The beta testers on Aetherius Modding.
 - Noggog for Mutagen.
-- xSlim for proofreading documentation.
+- xSlim & Aosana for proofreading documentation.
 - Umgak for help patching.
 - Halgari and everyone on the WJ Team - Wabbajack is awesome and so are you.
 
