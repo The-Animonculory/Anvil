@@ -28,7 +28,7 @@ Wabbajack Modlist Installer by Althro with support from Aetherius Modding.
 
 **Forge** comes with all the libraries a plugin developer would need and also includes the Creation Kit with [Creation Kit Platform Extended](https://www.nexusmods.com/skyrimspecialedition/mods/71371) configured and working. It serves as the replacement to [Althro's Dev Tools](https://github.com/Althro/ADT).
 
-**Core** is a visual overhaul with an emphasis on "less is more" and improving what is already there. Fantasia Landscapes and Skyland Architecture/Bits and Bobs form the base of everything, with other mods extended the "vanilla updated" look. [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and [ENB](http://enbdev.com/news.html) are present so you can decide which you want to use. It serves as the replacement for [Althro's/Animonculory Visual Overhaul](https://github.com/Althro/Anvil).
+**Core** is a visual overhaul with an emphasis on "less is more" and improving what is already there. Cathedral Landscapes and Skyland Architecture/Bits and Bobs form the base of everything, with other mods extended the "vanilla updated" look. [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and [ENB](http://enbdev.com/news.html) are present so you can decide which you want to use. It serves as the replacement for [Althro's/Animonculory Visual Overhaul](https://github.com/Althro/Anvil).
 
 ## System Requirements
 
@@ -51,7 +51,7 @@ Anvil requires a mid-tier modern system to run to its fullest potential. The rec
 | Storage | SSD
 | GPU | 6GB VRAM 
 
-Space required: Approx 78GB (Downloads included) + 30GB working room for Wabbajack.
+Space required: Approx 82GB (Downloads included) + 30GB working room for Wabbajack.
 
 :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
@@ -132,7 +132,7 @@ Anvil also utilizes Root Builder alongside Stock Game to enable easier managemen
 
 Anvil uses [Azurite Weathers II](https://www.nexusmods.com/skyrimspecialedition/mods/12125) for its weather mod and [Standard Lighting Templates](https://www.nexusmods.com/skyrimspecialedition/mods/66943) for lighting. 
 
-[Defaulto ENB](https://www.nexusmods.com/skyrimspecialedition/mods/69595) is included as the ENB and is enabled out of the box.
+[Silent Horizons 2](https://www.nexusmods.com/skyrimspecialedition/mods/99398) is included as the ENB and is enabled out of the box.
 
 The list also comes with [Community Shaders (CS)](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and all addons required. These are not enabled by default, you will need to activate them. See the picture below for what to tick and untick.
 
