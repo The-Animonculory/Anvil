@@ -1,6 +1,6 @@
-# ANVIL - "The forge on which to create"
+# ANVIL - "The Forge on Which to Create"
 
-![banner image](https://raw.githubusercontent.com/Althro/Anvil/main/Resources/Temp%20Logo.jpg)
+![banner image](https://raw.githubusercontent.com/Althro/Anvil/main/Resources/AnvilTestThumbnail.png)
 
 Wabbajack Modlist Installer by Althro with support from Aetherius Modding.
 
@@ -194,7 +194,7 @@ Simply delete the folder, and you have uninstalled it.
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Ferroxius for ensuring focus and helping me get things on the right track.
+- Ferroxius for the logo, splash and ensuring focus.
 - The Aetherius Modding Team.
 - The beta testers on Aetherius Modding.
 - Noggog for Mutagen.
