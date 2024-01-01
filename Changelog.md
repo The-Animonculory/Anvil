@@ -3,9 +3,11 @@
 ## 0.4
 - Fixed non 21x9 interface
 - Regenerated Lods
+- Regenerated INI files using Lexy's settings in BethINI Pie (standard BethINI remains for those that wish to use it)
 - Reworked caves and landscapes to be a bit less "awful"
 
 ### Added
+- BethINI Pie
 - Better Dialogue Controls
 - Better Message Box Controls
 - Cathedral Landscape Grass Mipmap fix
