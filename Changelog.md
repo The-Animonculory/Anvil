@@ -1,9 +1,10 @@
 # Changelog
 
 ## 0.4
+- Fixed ENB screenshot format
 - Fixed non 21x9 interface
-- Regenerated Lods
 - Regenerated INI files using Lexy's settings in BethINI Pie (standard BethINI remains for those that wish to use it)
+- Regenerated Lods
 - Reworked caves and landscapes to be a bit less "awful"
 
 ### Added
@@ -12,6 +13,7 @@
 - Better Message Box Controls
 - Cathedral Landscape Grass Mipmap fix
 - Cathedral Landscape True Grass only
+- DynDOLOD FX Glow Accurate Disabler
 - Modest Mines
 - Northern Shores
 - Northfires Dungeons
@@ -25,6 +27,7 @@
 - Cathedral Landscapes
 - CC's HQ Caves
 - CC's HQ Mines
+- Standard Lighting Templates
 
 ### Updated
 - ConsoleUtilSSE NG

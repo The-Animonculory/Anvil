@@ -51,7 +51,7 @@ Anvil requires a mid-tier modern system to run to its fullest potential. The rec
 | Storage | SSD
 | GPU | 6GB VRAM 
 
-Space required: Approx 82GB (Downloads included) + 30GB working room for Wabbajack.
+Space required: Approx 80GB (Downloads included) + 30GB working room for Wabbajack.
 
 :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
@@ -130,7 +130,7 @@ Anvil also utilizes Root Builder alongside Stock Game to enable easier managemen
 
 ### Post Processing
 
-Anvil uses [Azurite Weathers II](https://www.nexusmods.com/skyrimspecialedition/mods/12125) for its weather mod and [Standard Lighting Templates](https://www.nexusmods.com/skyrimspecialedition/mods/66943) for lighting. 
+Anvil uses [Azurite Weathers II](https://www.nexusmods.com/skyrimspecialedition/mods/12125) for its weather mod.
 
 [Silent Horizons 2](https://www.nexusmods.com/skyrimspecialedition/mods/99398) is included as the ENB and is enabled out of the box.
 
