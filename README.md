@@ -28,7 +28,7 @@ Wabbajack Modlist Installer by Althro with support from Aetherius Modding.
 
 **Forge** comes with all the libraries a plugin developer would need and also includes the Creation Kit with [Creation Kit Platform Extended](https://www.nexusmods.com/skyrimspecialedition/mods/71371) configured and working. It serves as the replacement to [Althro's Dev Tools](https://github.com/Althro/ADT).
 
-**Core** is a visual overhaul with an emphasis on "less is more" and improving what is already there. Cathedral Landscapes and Skyland Architecture/Bits and Bobs form the base of everything, with other mods extended the "vanilla updated" look. [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and [ENB](http://enbdev.com/news.html) are present so you can decide which you want to use. It serves as the replacement for [Althro's/Animonculory Visual Overhaul](https://github.com/Althro/Anvil).
+**Core** is a visual overhaul with an emphasis on "less is more" and improving what is already there. [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and [ENB](http://enbdev.com/news.html) are present so you can decide which you want to use. It serves as the replacement for [Althro's/Animonculory Visual Overhaul](https://github.com/Althro/Anvil).
 
 ## System Requirements
 

@@ -1,5 +1,32 @@
 # Changelog
 
+## 0.4
+- Fixed non 21x9 interface
+- Regenerated Lods
+- Reworked caves and landscapes to be a bit less "awful"
+
+### Added
+- Better Dialogue Controls
+- Better Message Box Controls
+- Cathedral Landscape Grass Mipmap fix
+- Cathedral Landscape True Grass only
+- Modest Mines
+- Northern Shores
+- Northfires Dungeons
+- Septentrional Landscapes
+- Skyrim Remastered Caves
+- Skyrim Remastered Glaciers & Ice
+- Snoblind
+- Wider MCM menu
+
+### Removed
+- Cathedral Landscapes
+- CC's HQ Caves
+- CC's HQ Mines
+
+### Updated
+- ConsoleUtilSSE NG
+
 ## 0.3
 - Consolidated Generated Files into one download
 - Regenned Lods to account for changes
