@@ -130,9 +130,9 @@ Anvil also utilizes Root Builder alongside Stock Game to enable easier managemen
 
 ### Post Processing
 
-Anvil uses [Azurite Weathers II](https://www.nexusmods.com/skyrimspecialedition/mods/12125) for its weather mod.
+Anvil uses [Wander - A Weather Mod](https://www.nexusmods.com/skyrimspecialedition/mods/24439) with lighting governed by [Relighting Skyim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) & [Enhanced Lighting for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1377). These are method patched and easy enough to remove should you wish to switch to something else.
 
-[Silent Horizons 2](https://www.nexusmods.com/skyrimspecialedition/mods/99398) is included as the ENB and is enabled out of the box.
+[Silent Horizons 2](https://www.nexusmods.com/skyrimspecialedition/mods/99398) is included as the ENB and is enabled out of the box. The only change made is to the screenshot format. Again, this is easy to remove/change.
 
 The list also comes with [Community Shaders (CS)](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and all addons required. These are not enabled by default, you will need to activate them. See the picture below for what to tick and untick.
 

@@ -1,5 +1,40 @@
 # Changelog
 
+## 0.6
+- Cleaned up Downloads to further 
+- Fixed interior lighting issues
+- Fixed landscape Parallax errors
+- Fixed scars being very hard to see
+
+### Added
+- DALC Fix for Wander
+- ELE
+- Fantasia Landscape Parallax (I forgot to remove the original from the downloads to technically it was never removed)
+- Northborn Scars
+- Picta improved Sky meshes
+- Relighting Skyrim
+- TBs Improved Water
+- Wander Weathers
+
+### Removed
+- Azurite Mists
+- Azurite Weathers
+- Cathedral Water
+- DynDOLOD FX Glow Accurate Disabler
+- Modest Mines
+- Northern Shores
+- Northfires Dungeons
+- Septentrional Landscapes
+- Skyrim Remastered Caves
+- Skyrim Remastered Glaciers & Ice
+- Snoblind
+- Water Mod
+
+### Updated
+- Complete Widescreen Fix for Vanilla and SkyUI
+- Help Extender
+- Vende's Reshade
+
 ## 0.5
 - Fixed issue with Ice spike blockiness
 - Adjusted lod settings to deliver slight performance improvement
