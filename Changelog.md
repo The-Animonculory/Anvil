@@ -1,5 +1,35 @@
 # Changelog
 
+## 0.5
+- Fixed issue with Ice spike blockiness
+- Adjusted lod settings to deliver slight performance improvement
+
+### Added
+- Better Jumping
+- Contextual Crosshair
+- ENB Light
+- Fantastic Grasses and Where to Find them
+- HQ Tree Bark
+- Masculine and Feminine Argonian & Khajiit textures
+- Medieval Candles & Sconces
+- Medieval Potion
+- Medieval Silverworks
+- Reverie Skin
+- SBT Moss Fix
+- Simply Bigger Trees
+- Skysight Skin
+- Smaller Vanilla cursors
+- Vanilla HD Branches
+
+### Removed
+- Barking Up The Right Tree
+- Cathedral Landscape Grass Mipmap fix
+- Cathedral Landscape True Grass only
+- Enhanced Vanilla Trees
+- Optimized Rudy Misc
+- Rudy Misc
+- Simply Skin
+
 ## 0.4
 - Fixed ENB screenshot format
 - Fixed non 21x9 interface
