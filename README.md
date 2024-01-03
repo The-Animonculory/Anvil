@@ -148,7 +148,7 @@ To enable 21x9 ultrawide support, activate the two mods tagged `21x9` under `UI 
 
 ### Real-time performance monitoring
 
-Anvil includes a mod that enables you to see your FPS and VRAM usage in real-time. To disable this, deactivate the mod called `OSD Font for SSE Display Tweaks`. **NOTE**: This comes enabled by default.
+Anvil includes a mod that enables you to see your FPS and VRAM usage in real-time. To enable this, deactivate the mod called `OSD Font for SSE Display Tweaks`. **NOTE**: This comes disabled by default.
 
 ***
 
