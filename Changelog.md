@@ -1,5 +1,27 @@
 # Changelog
 
+## 0.7
+- Replaced Default ENB with something more suiting
+- Replaced Dwemer setup due to mods being removed
+- Regenned Lods
+
+### Added
+- Golden Dwemer Pipeworks Redone
+- Golden Dwemer Pipeworks Redone Unofficial update
+- Golden Dwemer Pipeworks Redone Patches
+- Dwemer Automatons Glowmapped
+- Dwemer Automatons Glowmapped Golden Dwemer Pipeworks Redone Patch
+- Dwemer Tech Glowmapped
+- Realistic Water 2
+- Better Water 2
+- Water Effects Brightness and Reflection Fix - Realistic Water Two Patch
+- FYX - Water Splash
+
+### Removed
+- Ancient Dwemer Metal
+- Ancient Dwemer Metal patches
+- Silent Horizons 2
+
 ## 0.6
 - Cleaned up Downloads to further 
 - Fixed interior lighting issues
