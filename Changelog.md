@@ -1,5 +1,32 @@
 # Changelog
 
+## 0.8
+- Changed alternate start to enable better compatability with other mods.
+- Fixed issue with black rocks.
+- Improved performance on some ENB light meshes.
+- Removed some egregious looking things.
+
+### Added
+- ENB Extender for Skyrim
+- Faster Vanilla Start
+- KiLoader for Skyrim
+- No More Blinding Fog
+- Optimized ENB Light Meshes
+- Optimized meshes for ENB Lights by Oz3
+- Remove Small rocks
+- Remove Ugly Dead Shrub and Thickets
+- Silent Horizons 2
+- Sword Fern 06 replacer
+- Vanilla Hair fixes
+
+### Updated
+- Faster HDT SMP
+- Rehsade Effect Toggler
+
+### Removed
+- Optional Quick Start SE
+- Wandershade
+
 ## 0.7
 - Replaced Default ENB with something more suiting
 - Replaced Dwemer setup due to mods being removed

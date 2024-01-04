@@ -133,7 +133,7 @@ Anvil also utilizes Root Builder alongside Stock Game to enable easier managemen
 
 Anvil uses [Wander - A Weather Mod](https://www.nexusmods.com/skyrimspecialedition/mods/24439) with lighting governed by [Relighting Skyim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) & [Enhanced Lighting for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1377). These are method patched and easy enough to remove should you wish to switch to something else.
 
-[Wandershade](https://www.nexusmods.com/skyrimspecialedition/mods/50045) is included as the ENB and is enabled out of the box. The only change made is to the screenshot format. Again, this is easy to remove/change.
+[Silent Horizons 2](https://www.nexusmods.com/skyrimspecialedition/mods/99398) is included as the ENB and is enabled out of the box. The only change made is to the screenshot format. Again, this is easy to remove/change.
 
 The list also comes with [Community Shaders (CS)](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and all addons required. If you wish to use this, please enable the `Anvil - Core CS` profile.
 
@@ -169,7 +169,7 @@ You are welcome to change any others to achieve your desired setup.
 
 ### Starting the Game
 
-By default, Anvil uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953) to bypass the starting sequence of the game and spawn you into the Helgen tunnel. The equipment chest has been custom configured for the list to provide a range of starting equipment.
+By default, Anvil uses [Faster Vanilla Start](https://www.nexusmods.com/skyrimspecialedition/mods/72890) to bypass the cart ride and start the game at the beginning of Helgen Keep. A message will pop-up asking you to chose Hadvar or Ralof to allow the game to play out as if you made that choice before entering.
 	
 ## Updating the modlist
 
