@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.8.2 - Hotfix
+- Fixed tools not showing up on Forge profile.
+- Removed QUI due to non compatability.
+- Added Stay at System Page NG
+
 ## 0.8
 - Changed alternate start to enable better compatability with other mods.
 - Fixed issue with black rocks.
