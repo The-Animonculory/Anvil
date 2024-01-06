@@ -169,7 +169,7 @@ You are welcome to change any others to achieve your desired setup.
 
 ### Starting the Game
 
-By default, Anvil uses [Faster Vanilla Start](https://www.nexusmods.com/skyrimspecialedition/mods/72890) to bypass the cart ride and start the game at the beginning of Helgen Keep. A message will pop-up asking you to chose Hadvar or Ralof to allow the game to play out as if you made that choice before entering.
+By default, Anvil uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953) to bypass the cart ride and start the game in the Helgen Cave. A message will pop-up asking you to chose whether to Skip the intro (Press `Yes`) and then, after character creation, Hadvar or Ralof. Choose your preferred companion and then the game will play out as if you made that choice before entering.
 	
 ## Updating the modlist
 

@@ -1,5 +1,38 @@
 # Changelog
 
+## 0.9
+- Overhauled Character visuals to give better consistency.
+- Overhauled Trees to improve looks and performance.
+- Swapped back to Optional Quick Start for smoother game start
+
+### Added
+- Better Reach Trees
+- CK Custom INI
+- Champollion
+- Fantastia Landscape Yellow Tundra
+- Happy Liitle Trees DLC Trees
+- Happy Little Logs
+- Happy Little Shrubs
+- Happy Little Trees
+- Happy Little Trees DynDOLOD
+- Hvergelmir's Aethetics - Beards
+- Hvergelmir's Aethetics - Brows
+- Optional Quick Start - SE
+- SC - Khajiit Improvement
+- SC - Khajiit Improvement - Alpha Patch
+- Skyland Happy Little Trees Bark
+- Superior Lore-Friendly Hair
+- XP32 Basic Skeleton
+
+### Removed
+- HQ Tree Back
+- Masculine and Feminine Khajiit textures
+- Simply Bigger Trees
+- Simply Bigger Trees moss fix
+- Vanilla HD Branches
+- Vanilla Hair Salt & Wind
+- Xenius Character Improvement
+
 ## 0.8.2 - Hotfix
 - Fixed tools not showing up on Forge profile.
 - Removed QUI due to non compatability.
