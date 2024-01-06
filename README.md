@@ -51,7 +51,7 @@ Anvil requires a mid-tier modern system to run to its fullest potential. The rec
 | Storage | SSD
 | GPU | 6GB VRAM 
 
-Space required: Approx 80GB (Downloads included) + 30GB working room for Wabbajack.
+Space required: Approx 92GB (Downloads included) + 30GB working room for Wabbajack.
 
 :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
