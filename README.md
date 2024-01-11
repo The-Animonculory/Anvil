@@ -131,11 +131,11 @@ Anvil also utilizes Root Builder alongside Stock Game to enable easier managemen
 
 ### Post Processing
 
-Anvil uses [Wander - A Weather Mod](https://www.nexusmods.com/skyrimspecialedition/mods/24439) with lighting governed by [Relighting Skyim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) & [Enhanced Lighting for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1377). These are method patched and easy enough to remove should you wish to switch to something else.
+Anvil uses [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) with lighting governed by [Relighting Skyim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) & [Enhanced Lighting for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1377). These are method patched and easy enough to remove should you wish to switch to something else.
 
 [Silent Horizons 2](https://www.nexusmods.com/skyrimspecialedition/mods/99398) is included as the ENB and is enabled out of the box. The only change made is to the screenshot format. Again, this is easy to remove/change.
 
-The list also comes with [Community Shaders (CS)](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and all addons required. If you wish to use this, please enable the `Anvil - Core CS` profile.
+The list also comes with [Amethyst - Weathers and Reshade preset for Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/994502) fully set up and ready to use as well. If you wish to use this, please enable the `Anvil - Core CS` profile.
 
 **NOTE**: Screenshots save to `Overwrite\Game Root`.
 

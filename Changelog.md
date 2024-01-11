@@ -1,5 +1,28 @@
 # Changelog
 
+## 0.10
+- Cleaned up more downloads to save space
+- Reworked Ice to make it better.
+- Reworked Weathers & CS post processing to be more fitting
+
+### Added
+- Amethyst - Weathers and Reshade Preset for Community Shaders
+- Animated Ice Floes
+- Glacierslab
+- Icy Mesh Remaster
+- Obsidian Weathers
+
+### Removed
+- DALC Fix for Wander
+- Vende's Reshade
+- Wander Weathers
+
+### Updated
+- EmbersXD
+- Fire and Embers Clipping Fix
+- Simplicity of Snow
+- Trainwreck
+
 ## 0.9
 - Overhauled Character visuals to give better consistency.
 - Overhauled Trees to improve looks and performance.
