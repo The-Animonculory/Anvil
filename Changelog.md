@@ -1,6 +1,7 @@
 # Changelog
 
 ## 0.11
+- Downgraded MO2 version to enable better Linux/Steam Deck compatability.
 - Reworked creatures to improve variety and be more reminiscent to vanilla.
 
 ### Added
