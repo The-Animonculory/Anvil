@@ -36,7 +36,9 @@ Wabbajack Modlist Installer by Althro with support from Aetherius Modding.
 
 Owing to the need to clean master files and certain errors with Wabbajack, Anvil only supports **English Steam** versions of Skyrim SE. **GOG and other Languages are not supported**. The specific version used is 1.6.1130.
 
-Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Linux compatability is **not possible** at this time owing to certain libraries not present in Wine/Proton required for MO2.
+Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and Anvil.
+
+Linux compatability is sadly **not possible** with this main version at this time owing to certain libraries not present in Wine/Proton required for the version of MO2 used. A special version of the list is planned for Linux/Steam Deck compatability.
 
 Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
@@ -47,7 +49,7 @@ Anvil requires a mid-tier modern system to run to its fullest potential. The rec
 | Component    | Recommended | 
 |:--------------:|:-------------:|
 | CPU | 6 core/12 thread
-| Ram | DDR4 Ram  + 20GB Pagefile 
+| Ram | 16GB DDR4 Ram  + 20GB Pagefile 
 | Storage | SSD
 | GPU | 6GB VRAM 
 

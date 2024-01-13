@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.11
+- Reworked creatures to improve variety and be more reminiscent to vanilla.
+
+### Added
+- Bellyache's Animal and Creature Pack Revamped
+- Spiders of Solsthiem - Transparency Fix
+
+### Removed
+- Forgotten Creatures
+- Iconic's Spiders
+- Iconic's Werebeasts
+- Real Rabbits
+
+### Updated
+- Keyword Item Distributor
+- Zero Bounty Hostility Fix
+
 ## 0.10
 - Cleaned up more downloads to save space
 - Reworked Ice to make it better.
