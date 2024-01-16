@@ -38,7 +38,7 @@ Owing to the need to clean master files and certain errors with Wabbajack, Anvil
 
 Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and Anvil.
 
-Anvil *should* work on Linux, however this is not supported by the author. An unofficial guide to running the list on Linux is planned, alongside a version for Steam Deck.
+Anvil *should* work on Linux, however this is not supported by the author. An unofficial guide to running the list on Linux is being developed.
 
 Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 

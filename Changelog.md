@@ -1,5 +1,56 @@
 # Changelog
 
+## 0.12
+- Added "Books & Paper" seperator to enable easier sorting
+- Fixed Dwemer Section
+- Fixed Nif Preview not working
+- Simplified textures in some areas to achieve a better consistency
+
+### Added
+- Ancient Dwemer Metal
+- Ancient Dwemer Metal patches
+- Believable Weapons
+- Enhanced Blood Textures (Lite)
+- Kabloom Mountain Flowers
+- Kanjs Ancient Falmer Tomes
+- Kanjs Black Books
+- Kanjs Boetheiah's Proving
+- Kanjs Book of the Dragonborn
+- Kanjs Burned and Ruined Book
+- Kanjs Common Books
+- Kanjs Journals
+- Kanjs Malyn Varen's Grimoire
+- Kanjs Master Spekk Tomes
+- Kanjs Mythic Dawn Commentaries
+- Kanjs Oghma Infinium
+- Kanjs Spell Tomes
+- Kanjs The Aetherium Wars
+- Kanjs The Dreamstride
+- Kanjs The Wolf Queen
+- More Dirt-Snow-Ash on the Roads
+- Project Clarity Armors
+- Project Clarity Weapons
+- Sanguine - Enhanced Blood Texture Retexture
+
+### Removed
+- Armor mesh Fixes
+- BURP Spell tomes
+- Book Covers Skyrim
+- Book Covers Skyrim - Normal Map Fix
+- Cathedral 3D Mountain Flowers
+- Cathedral Armory
+- Cathedral Armory for CC
+- Custom cubemaps for Cathedral Armory
+- Dwemer Automatons Glowmapped Golden Dwemer Pipeworks Redone Patch
+- Golden Dwemer Pipeworks Redone
+- Golden Dwemer Pipeworks Redone Patches
+- Golden Dwemer Pipeworks Redone Unofficial update
+- Sharpen Other Swords - Leanwolfs Better Shaped Weapons
+
+### Updated
+- Nif Preview (Technically downgraded)
+- Spell Perk Item Distributor
+
 ## 0.11
 - Downgraded MO2 version to enable better Linux/Steam Deck compatability.
 - Reworked creatures to improve variety and be more reminiscent to vanilla.
