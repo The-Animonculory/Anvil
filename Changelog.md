@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.12.1
+- Recompiled against latest version of Skyrim. No more updates planned for now.
+
+### Removed
+- Creation Kit - Owing to errors with CK on compilation, it has had to be temporarily removed from Anvil.
+
+### Updated 
+- SPID.
+
 ## 0.12
 - Added "Books & Paper" seperator to enable easier sorting
 - Fixed Dwemer Section

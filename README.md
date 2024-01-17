@@ -71,11 +71,12 @@ Prior to installing Anvil, please complete the following steps.
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
 4. Fully disable OneDrive and any other programs which hook into user file areas.
 5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
-6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation. **DO NOT LAUNCH THE GAME TO GET THE CC CONTENT - Anvil requires a totally stock installation.**
-7. Install the [Creation Kit on Steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/).
-8. Run it once and select `NO` when it asks about unpacking scripts. They are handled by ADT already.
-9. Close the creation kit and continue with the installation steps.
-10. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
+7. Launch the game to the main menu and allow it to download the latest addon files.
+8. Install the [Creation Kit on Steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/).
+9. Run it once and select `Yes` when it asks about unpacking scripts.
+10. Close the creation kit and continue with the installation steps.
+11. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 
 ***
 
@@ -108,7 +109,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
-    - Ensure your version of Curios matches the one used in Anvil. **It has to be the one from Steam, not the one from in-game**.
+    - Ensure your version of Curios matches the one used in Anvil. **It has to be the one from in-game, Not from Steam**.
 
 - x is not a whitelisted download:
 
