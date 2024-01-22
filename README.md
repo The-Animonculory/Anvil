@@ -53,7 +53,7 @@ Anvil requires a mid-tier modern system to run to its fullest potential. The rec
 | Storage | SSD
 | GPU | 6GB VRAM 
 
-Space required: Approx 92GB (Downloads included) + 30GB working room for Wabbajack.
+Space required: Approx 90GB (Downloads included) + 30GB working room for Wabbajack.
 
 :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
@@ -152,7 +152,7 @@ To enable 21x9 ultrawide support, activate the two mods tagged `21x9` under `UI 
 
 ### Real-time performance monitoring
 
-Anvil includes a mod that enables you to see your FPS and VRAM usage in real-time. To enable this, deactivate the mod called `OSD Font for SSE Display Tweaks`. **NOTE**: This comes disabled by default.
+Anvil includes a mod that enables you to see your FPS and VRAM usage in real-time. To enable this, activate the mod called `OSD Font for SSE Display Tweaks`. **NOTE**: This comes disabled by default.
 
 ***
 

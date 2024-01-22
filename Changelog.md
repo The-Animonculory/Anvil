@@ -1,8 +1,10 @@
 # Changelog
 
-## 0.13
+## 0.13 - "Best of both worlds"
+- **NOT SAVE SAFE**
 - Rebuild of list to utilise BOBW 1.5.97.
 - Fixed Creation Kit errors and enabled running on all profiles.
+- Fixed OSD being on by default, now disabled by default.
 - Improved Documentation in some areas.
 - Repatched in some areas to improve compatability.
 - Reworked Dungeons and clutter to be more conforming.
@@ -15,6 +17,7 @@
 - Backported Extended ESL Support
 - Beard Mask Fix for Skyrim 1.5
 - COCKS for Skyrim 1.5
+- CoMAP
 - Crash Logger
 - Dareni's Edit of Simplicity of Sea
 - Echantable Special Item Fix for Skyrim 1.5
