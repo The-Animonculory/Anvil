@@ -1,5 +1,61 @@
 # Changelog
 
+## 0.13
+- Rebuild of list to utilise BOBW 1.5.97.
+- Fixed Creation Kit errors and enabled running on all profiles.
+- Improved Documentation in some areas.
+- Repatched in some areas to improve compatability.
+- Reworked Dungeons and clutter to be more conforming.
+- Set Community Shaders as default in Core Profile with ENB now being optional profile.
+- Set xEdit to run in 64bit mode by default.
+- Split UI section to make it easier to navigate.
+- Tweaked Particle lights and VFX to be less invasive.
+
+### Added
+- Backported Extended ESL Support
+- Beard Mask Fix for Skyrim 1.5
+- COCKS for Skyrim 1.5
+- Crash Logger
+- Dareni's Edit of Simplicity of Sea
+- Echantable Special Item Fix for Skyrim 1.5
+- Flame VFX Edit
+- Glacierslab for CS (custom version)
+- Iventory Interface Information Injector for Skyrim 1.5
+- Main Menu Randomizer SE
+- Misc Retexture Project
+- Natural Waterfalls
+- RaceMenu 0.4.16 Memory Leak Hotfix
+- Rallys Water Foam HQ
+- Ruins Canopic Jards
+- Ruins Large Urn Ancient Pottery Retexture
+- Rustic Soulgems
+- Sharpen Other Swords II (This was missing all this time...)
+- Simplicity of Sea
+- Skyrim Scenery - Main Menu Replacers
+- TB's Improved Smoke
+- Ultimate HD Fire Effects
+
+### Removed
+- 2K Boar Meat
+- Better Effigy of King Olaf
+- Elsopa Training Dummies Redone
+- EmbersXD (Too Many worldspace edits)
+- JS Dwemer (Everything that was JS Dwemer)
+- Multilayered Parallax Soulgems
+- Realistic Water 2 (Too many worldspace edits)
+- Ruins Clutter Improved
+- Ruins Clutter Improved Fixes
+- Rustic Cooking
+- SkyUI SE - Difficulty Persistence Fix (Not needed on 1.5.97)
+- Trainwreck (Crash Logger is slightly easier to read)
+
+### Updated
+- Animated Ice Floes
+- Complete Widescreen fix for Vanilla and SkyUI
+- Creation Kit Platform Extended
+- Sound Record Distributor
+- xEdit (Technically downgraded to version on Nexus)
+ 
 ## 0.12.1
 - Recompiled against latest version of Skyrim. No more updates planned for now.
 

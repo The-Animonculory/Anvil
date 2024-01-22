@@ -34,7 +34,7 @@ Wabbajack Modlist Installer by Althro with support from Aetherius Modding.
 
 ### Disclaimer
 
-Owing to the need to clean master files and certain errors with Wabbajack, Anvil only supports **English Steam** versions of Skyrim SE. **GOG and other Languages are not supported**. The specific version used is 1.6.1130.
+Owing to the need to clean master files and certain errors with Wabbajack, Anvil only supports **English Steam** versions of Skyrim SE. **GOG and other Languages are not supported**. The specific version used is a "Best of Both Worlds" 1.5.97.
 
 Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and Anvil.
 
@@ -136,9 +136,9 @@ Anvil also utilizes Root Builder alongside Stock Game to enable easier managemen
 
 Anvil uses [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) with lighting governed by [Relighting Skyim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) & [Enhanced Lighting for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1377). These are method patched and easy enough to remove should you wish to switch to something else.
 
-[Silent Horizons 2](https://www.nexusmods.com/skyrimspecialedition/mods/99398) is included as the ENB and is enabled out of the box. The only change made is to the screenshot format. Again, this is easy to remove/change.
+The list comes with [Amethyst - Weathers and Reshade preset for Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/994502) fully set up and ready to use. This is easy to change and remove should you wish to.
 
-The list also comes with [Amethyst - Weathers and Reshade preset for Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/994502) fully set up and ready to use as well. If you wish to use this, please enable the `Anvil - Core CS` profile.
+[Silent Horizons 2](https://www.nexusmods.com/skyrimspecialedition/mods/99398) is included as well with the only change made being to the screenshot format. Again, this is easy to remove/change. If you wish to use this, please enable the `Anvil - Core ENB` profile.
 
 **NOTE**: Screenshots save to `Overwrite\Game Root`.
 
