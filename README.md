@@ -138,7 +138,7 @@ Anvil uses [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mo
 
 The list comes with [Amethyst - Weathers and Reshade preset for Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/994502) fully set up and ready to use. This is easy to change and remove should you wish to.
 
-[Silent Horizons 2](https://www.nexusmods.com/skyrimspecialedition/mods/99398) is included as well with the only change made being to the screenshot format. Again, this is easy to remove/change. If you wish to use this, please enable the `Anvil - Core ENB` profile.
+[Rudy ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/4796) is included as well with the only changes made being to the screenshot format and turning off Ambient Occlusion. Again, this is easy to remove/change. If you wish to use this, please enable the `Anvil - Core ENB` profile.
 
 **NOTE**: Screenshots save to `Overwrite\Game Root`.
 

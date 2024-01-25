@@ -1,5 +1,26 @@
 # Changelog
 
+## 0.14
+- Tweaked ENB profile to provide a better setup for those wishing to use it.
+
+### Added
+- Modular SNP Hairstyles
+- Rudy ENB
+- SkyHud
+- SSIRT
+- Ultimate Immersion Toggle
+
+### Updated
+- Navigator
+
+### Removed
+- ENB Extender
+- KiLoader
+- Silent Horizons 2
+
+## 0.13.1 - Hotfix
+- Fixed error with CKPrefs file causing intall issues
+
 ## 0.13 - "Best of both worlds"
 - **NOT SAVE SAFE**
 - Rebuild of list to utilise BOBW 1.5.97.
