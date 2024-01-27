@@ -155,7 +155,7 @@ The Creation Kit version used in this list **WILL GENERATE PLUGINS WITH THE NEW 
 
 CK platform fixes is used to enable the Creation Kit to work with the specialised game version used in this list. Please ensure that you do not change anything in the INI without first reading what it does.
 
-:warning: **UNDER NO CIRCUMSTANCES CHANGE `bSupportFormat171`` TO FALSE. THE CREATION KIT WILL FAIL TO LAUNCH OTHERWISE** :warning:
+:warning: **UNDER NO CIRCUMSTANCES CHANGE `bSupportFormat171` TO FALSE. THE CREATION KIT WILL FAIL TO LAUNCH OTHERWISE** :warning:
 
 ## Playing the List
 
