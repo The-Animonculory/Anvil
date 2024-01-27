@@ -24,17 +24,21 @@ Wabbajack Modlist Installer by Althro with support from Aetherius Modding.
 
 ## Preamble
 
-**Anvil** is designed as a baseline list to be used as either a forking base for a list or a mod development base. It is fully documented with all changes and tweaks being present in the notes section of MO2, and comes with **two** profiles, aptly named **"Anvil - Forge"** and **"Anvil - Core"**.
+**Anvil** is designed as a forge for creating on. It can be used to build your own list, create mods, and also be played as is. It is fully documented with all changes and tweaks to mods being detailed in the `notes` part of Mod Organizer 2, and aims to be light in its footprint.
 
-**Forge** comes with all the libraries a plugin developer would need and also includes the Creation Kit with [Creation Kit Platform Extended](https://www.nexusmods.com/skyrimspecialedition/mods/71371) configured and working. It serves as the replacement to [Althro's Dev Tools](https://github.com/Althro/ADT).
+There are `Three` profiles in Anvil, each serving a distinct purpose.
 
-**Core** is a visual overhaul with an emphasis on "less is more" and improving what is already there. [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and [ENB](http://enbdev.com/news.html) are present so you can decide which you want to use. It serves as the replacement for [Althro's/Animonculory Visual Overhaul](https://github.com/Althro/Anvil).
+`Anvil - Forge` is the most basic of profiles. It is designed as a mod development base with the Creation Kit and Plugin Development libraries being availiable. It can also serve as a "non-graphical" base for building a list off. It serves as the consolidated replacement of [Althro's Dev Tools](https://github.com/Althro/ADT).
+
+`Anvil - Core` & `Anvil - Core CS` are the visual profiles, being for [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and [ENB](http://enbdev.com/news.html) respectively. Anvil's visual overhaul has an emphasis on "less is more" and improving what is already there. It serves as the replacement for [Althro's/Animonculory Visual Overhaul](https://github.com/Althro/Anvil).
 
 ## System Requirements
 
 ### Disclaimer
 
 Owing to the need to clean master files and certain errors with Wabbajack, Anvil only supports **English Steam** versions of Skyrim SE. **GOG and other Languages are not supported**. The specific version used is a "Best of Both Worlds" 1.5.97.
+
+***
 
 Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and Anvil.
 
@@ -110,6 +114,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
     - Ensure your version of Curios matches the one used in Anvil. **It has to be the one from in-game, Not from Steam**.
+	- Make sure you have the Creation Kit installed. Go back to [Pre-Installation](#pre-installation) and read it properly this time.
 
 - x is not a whitelisted download:
 
@@ -129,20 +134,28 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Anvil utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
 
-Anvil also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
+Anvil also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 ***
 
 ### Post Processing
 
 Anvil uses [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) with lighting governed by [Relighting Skyim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) & [Enhanced Lighting for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1377). These are method patched and easy enough to remove should you wish to switch to something else.
 
-The list comes with [Amethyst - Weathers and Reshade preset for Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/994502) fully set up and ready to use. This is easy to change and remove should you wish to.
+The list comes with [Rudy ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/4796) as the main post processing option. The only changes made are to the screenshot format and turning off Ambient Occlusion. Should you wish to change this, is is easy to adjust or remove the ENB.
 
-[Rudy ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/4796) is included as well with the only changes made being to the screenshot format and turning off Ambient Occlusion. Again, this is easy to remove/change. If you wish to use this, please enable the `Anvil - Core ENB` profile.
+[Amethyst - Weathers and Reshade preset for Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/994502) is also included and fully set up and ready to use. This is easy to change and remove should you wish to. If you wish to use this, please enable the `Anvil - Core CS` profile.
 
 **NOTE**: Screenshots save to `Overwrite\Game Root`.
 
-**NOTE**: By default, the list is **capped at 82fps**. To change this, you will need to adjust the `ini` file in `SSE Display Tweaks` and disable the framerate lock in ENB if using.
+**NOTE**: By default, the list is **capped at 82fps**. To change this, disable `Display Tweaks - Anvil Tweaks` and set your new cap in the `ini` file in `SSE Display Tweaks`. Make to disable the framerate lock in ENB if you are using the `Anvil - Core` profile.
+
+## The Creation Kit on "Forge"
+
+The Creation Kit version used in this list **WILL GENERATE PLUGINS WITH THE NEW HEADER VERSION**. Please bear this in mind when creating plugins.
+
+CK platform fixes is used to enable the Creation Kit to work with the specialised game version used in this list. Please ensure that you do not change anything in the INI without first reading what it does.
+
+:warning: **UNDER NO CIRCUMSTANCES CHANGE `bSupportFormat171`` TO FALSE. THE CREATION KIT WILL FAIL TO LAUNCH OTHERWISE** :warning:
 
 ## Playing the List
 
@@ -191,7 +204,6 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
-
 
 ## Credits and Thanks
 

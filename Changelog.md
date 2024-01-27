@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.14.1
+- Styyx fixed the CK. He is a legend.
+- Swapped ENB profile to be the default.
+
+### Added
+- Bash Bug Fix
+
+### Updated
+- Navigator
+
 ## 0.14
 - Tweaked ENB profile to provide a better setup for those wishing to use it.
 
