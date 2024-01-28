@@ -1,5 +1,35 @@
 # Changelog
 
+## 0.15
+- **Not Save Safe**
+- Due to profile changes which occured in pervious version, it is recommend to **clean install** the list. You can keep the downloads folder though.
+
+### Added
+- Kanjs Books All In One
+- Modlist Update Checker
+- Varied Chests
+
+### Updated
+- Animated Ice Floes
+- Anvil Resources
+
+### Removed
+- Kanjs Ancient Falmer Tomes
+- Kanjs Black Books
+- Kanjs Boetheiah's Proving
+- Kanjs Book of the Dragonborn
+- Kanjs Burned and Ruined Book
+- Kanjs Common Books
+- Kanjs Journals
+- Kanjs Malyn Varen's Grimoire
+- Kanjs Master Spekk Tomes
+- Kanjs Mythic Dawn Commentaries
+- Kanjs Oghma Infinium
+- Kanjs Spell Tomes
+- Kanjs The Aetherium Wars
+- Kanjs The Dreamstride
+- Kanjs The Wolf Queen
+
 ## 0.14.1
 - Styyx fixed the CK. He is a legend.
 - Swapped ENB profile to be the default.
