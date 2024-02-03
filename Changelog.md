@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.16.1
+- **Save compatible**
+- Adjusted Frost VFX to be higher quality
+- Fixed Sky reflections on ENB profile
+
+### Updated
+- DynDOLOD (Application)
+
+### Removed
+- Ultimate HD Fire Effects
+
 ## 0.16
 - **Not Save Safe**
 - Adjusted some documentation to account for changes.
