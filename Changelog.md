@@ -1,5 +1,30 @@
 # Changelog
 
+## 0.16
+- **Not Save Safe**
+- Adjusted some documentation to account for changes.
+- Adjusted water in ENB profile to reduce seamage
+- Reworked Lighting considerably.
+
+### Added
+- EmbersXD
+- Fires and Embers Clipping Fix
+- Sky Reflection Fix
+- Skyrim is Luminous
+- Stagger Effect Fix
+
+### Updated
+- Animated Ice Floes
+- Anvil Resources
+- Complete Widescreen Fix
+- Faster HDT
+- Particle Patch for ENB
+
+### Removed
+- Enhanced Lighting for ENB
+- KittyVFX - Fire
+- Relighting Skyrim
+
 ## 0.15
 - **Not Save Safe**
 - Due to profile changes which occured in pervious version, it is recommend to **clean install** the list. You can keep the downloads folder though.
