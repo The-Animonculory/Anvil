@@ -5,6 +5,7 @@
 - Added some more mods/tools in line with community feedback.
 - Adjusted MO2 Themes and shortcuts to create easier environment to work in.
 - Finally fixed the tiny cursor
+- Fixed 21x9 UI being on by default
 - Migrated to newer MO2 version to enable usage of new plugins and also optimize performance.
 - Renamed patches to have "ANV_" before them to enable ease of identification.
 
@@ -26,8 +27,10 @@
 - Better Third Person Selection
 - Capture Warmer
 - Conditional Dog Barking
+- HD Photorealistic Ivy
 - High Hrothgar Fixed
 - Minimalistic Reshade by Vende
+- More Painful Death Sounds
 - NifSkope
 - Parallax Spell impacts
 - Realistic Dog Sounds
