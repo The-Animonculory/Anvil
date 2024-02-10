@@ -1,5 +1,49 @@
 # Changelog
 
+## 0.17
+- **Not Save Compatible - Large Update**
+- Added some more mods/tools in line with community feedback.
+- Adjusted MO2 Themes and shortcuts to create easier environment to work in.
+- Finally fixed the tiny cursor
+- Migrated to newer MO2 version to enable usage of new plugins and also optimize performance.
+- Renamed patches to have "ANV_" before them to enable ease of identification.
+
+### Updated
+- Anvil Resources
+- CK platform Fixes
+- DynDOLOD (Tool)
+- Faster HDT-SMP
+- Lod MOdel Library
+- Mod Organizer 2
+- Nif Preview
+- Particle Patch for ENB
+
+### Added
+- Acoustic Space Improvement Fixes
+- Amon ENB Reborn
+- Audio Overhaul for Skyrim
+- Bethesda Plugin Manager
+- Better Third Person Selection
+- Capture Warmer
+- Conditional Dog Barking
+- High Hrothgar Fixed
+- Minimalistic Reshade by Vende
+- NifSkope
+- Parallax Spell impacts
+- Realistic Dog Sounds
+- Realistic Husky Sounds
+- Regional Sounds Exapnsion
+- Renthal 3D Door
+- Renthal 3D Mine Door
+- Renthal 3D Castle Door
+- Renthal Chair
+- Renthal Farmtable
+- Renthal Old Lantern pylon
+- Renthal Table
+- Renthal Windmill
+- Reverb Interior Sounds Expansion
+- Simplest Roads
+
 ## 0.16.1
 - **Save compatible**
 - Adjusted Frost VFX to be higher quality

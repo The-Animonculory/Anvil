@@ -157,6 +157,8 @@ CK platform fixes is used to enable the Creation Kit to work with the specialise
 
 :warning: **UNDER NO CIRCUMSTANCES CHANGE `bSupportFormat171` TO FALSE. THE CREATION KIT WILL FAIL TO LAUNCH OTHERWISE** :warning:
 
+To launch the creation kit, set the profile to `Anvil - Forge` and then run `Creation Platform extended`. You can also press the icon for it to run it if you wish.
+
 ## Playing the List
 
 ### Ultrawide Setup
