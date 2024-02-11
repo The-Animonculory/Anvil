@@ -1,13 +1,53 @@
 # Changelog
 
-## 0.17
+## 1.0 - "New Beginnings"
 - **Not Save Compatible - Large Update**
+- Added full paid content update. **NOTE:** This is not the new CC store content, this is the paid Anniversary Edition update.
 - Added some more mods/tools in line with community feedback.
 - Adjusted MO2 Themes and shortcuts to create easier environment to work in.
 - Finally fixed the tiny cursor
 - Fixed 21x9 UI being on by default
+- Migrated game version to 1.6.640 owing to bugs with followers.
 - Migrated to newer MO2 version to enable usage of new plugins and also optimize performance.
 - Renamed patches to have "ANV_" before them to enable ease of identification.
+
+### Version/Header Change
+- Actor Limit Fix
+- Address Library for SKSE
+- AnimObject Swapper
+- Auto Input Switch
+- Base Object Swapper
+- Bash Bug Fix
+- Better Jumping
+- Bug Fixes
+- Camera Persistence Fixes
+- Comap
+- Console ++
+- Crafting Reipe Distributor
+- Dual Casting Fix
+- ENB Helper SE
+- ENB Lights for Effect Shaders
+- Engine Fixes
+- Equip Enchantment Fix
+- Faster HDT SMP
+- Fuz Ro D-oh
+- JContainers
+- Keyword Item Distributor
+- Kreate
+- MCM Helper
+- Moons and Stars - Sky Overhaul SKSE
+- More Informative Console
+- Native EditorID Fix
+- Papyrus Util
+- Photo Mode
+- PO3 Tweaks
+- RaceMenu
+- Save Unbaker
+- Scrambled Bugs
+- SKSE
+- Smoothcam
+- Splashes of Storms
+- Storm Lightning
 
 ### Updated
 - Anvil Resources
@@ -17,7 +57,10 @@
 - Lod MOdel Library
 - Mod Organizer 2
 - Nif Preview
+- Open Animation Replacer
 - Particle Patch for ENB
+- xEdit
+- XP32 Skeleton
 
 ### Added
 - Acoustic Space Improvement Fixes
@@ -26,12 +69,17 @@
 - Bethesda Plugin Manager
 - Better Third Person Selection
 - Capture Warmer
+- Cleaned Creation Club + Anniversary
+- Cleaned Skyrim SE Textures
+- Cleaned Skyrim SE Textures Fixes
 - Conditional Dog Barking
+- Constructible Object Custom Keyword System NG
 - HD Photorealistic Ivy
 - High Hrothgar Fixed
 - Minimalistic Reshade by Vende
 - More Painful Death Sounds
 - NifSkope
+- Paired Animation Improvements
 - Parallax Spell impacts
 - Realistic Dog Sounds
 - Realistic Husky Sounds
@@ -46,6 +94,14 @@
 - Renthal Windmill
 - Reverb Interior Sounds Expansion
 - Simplest Roads
+- zEdit
+
+### Removed
+- Beard Mask Fix for Skyrim 1.5
+- Cocks for 1.5
+- Echantable Special Item Fix for Skyrim 1.5
+- Iventory Interface Information Injector for Skyrim 1.5
+- RaceMenu 0.4.16 Memory Leak Hotfix
 
 ## 0.16.1
 - **Save compatible**

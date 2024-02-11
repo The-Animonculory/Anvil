@@ -36,7 +36,9 @@ There are `Three` profiles in Anvil, each serving a distinct purpose.
 
 ### Disclaimer
 
-Owing to the need to clean master files and certain errors with Wabbajack, Anvil only supports **English Steam** versions of Skyrim SE. **GOG and other Languages are not supported**. The specific version used is a "Best of Both Worlds" 1.5.97.
+Owing to the need to clean master files and certain errors with Wabbajack, Anvil only supports **English Steam** versions of Skyrim SE. **GOG and other Languages are not supported**. The specific version used is 1.6.640 with the creation club content from 1.6.1170.
+
+:warning: :exclamation: **ANVIL REQUIRES THE FULL PAID UPDATE TO SKYRIM. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
 
 ***
 
@@ -76,7 +78,7 @@ Prior to installing Anvil, please complete the following steps.
 4. Fully disable OneDrive and any other programs which hook into user file areas.
 5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-7. Launch the game to the main menu and allow it to download the latest addon files.
+7. Launch the game to the main menu and allow it to download the paid addon files.
 8. Install the [Creation Kit on Steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/).
 9. Run it once and select `Yes` when it asks about unpacking scripts.
 10. Close the creation kit and continue with the installation steps.
@@ -113,7 +115,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
-    - Ensure your version of Curios matches the one used in Anvil. **It has to be the one from in-game, Not from Steam**.
+    - **Make sure you have downloaded all the Paid AE update content!**
 	- Make sure you have the Creation Kit installed. Go back to [Pre-Installation](#pre-installation) and read it properly this time.
 
 - x is not a whitelisted download:
