@@ -1,7 +1,8 @@
 # Changelog
 
-## 1.0 - "New Beginnings"
+## 1.0 - "...The End is never the End..."
 - **Not Save Compatible - Large Update**
+- **Anvil is now a featured list on Wabbajack!**
 - Added full paid content update. **NOTE:** This is not the new CC store content, this is the paid Anniversary Edition update.
 - Added some more mods/tools in line with community feedback.
 - Adjusted MO2 Themes and shortcuts to create easier environment to work in.
@@ -39,7 +40,6 @@
 - More Informative Console
 - Native EditorID Fix
 - Papyrus Util
-- Photo Mode
 - PO3 Tweaks
 - RaceMenu
 - Save Unbaker
@@ -53,12 +53,14 @@
 - Anvil Resources
 - CK platform Fixes
 - DynDOLOD (Tool)
+- Fantasia Landscapes
 - Faster HDT-SMP
 - Lod MOdel Library
 - Mod Organizer 2
 - Nif Preview
 - Open Animation Replacer
 - Particle Patch for ENB
+- Photo Mode
 - xEdit
 - XP32 Skeleton
 
@@ -68,6 +70,7 @@
 - Audio Overhaul for Skyrim
 - Bethesda Plugin Manager
 - Better Third Person Selection
+- Better Vanilla Gravestones
 - Capture Warmer
 - Cleaned Creation Club + Anniversary
 - Cleaned Skyrim SE Textures

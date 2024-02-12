@@ -59,7 +59,7 @@ Anvil requires a mid-tier modern system to run to its fullest potential. The rec
 | Storage | SSD
 | GPU | 6GB VRAM 
 
-Space required: Approx 93GB (Downloads included) + 30GB working room for Wabbajack.
+Space required: Approx 116GB (Downloads included) + 30GB working room for Wabbajack.
 
 :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
@@ -99,13 +99,12 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 Downloading and installing Anvil can take a while depending on your internet connection and computer. To install Anvil, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists.
-2. Tick the checkbox that says `Show Unofficial Modlists`. Scroll down until you see Anvil.
-3. Press the download button on Anvil and wait for it to download.
-4. Set the installation folder to be somewhere like C:\Games\Anvil. **Do not install it to your desktop or downloads folder.**
-5. The download location does not need to be on a SSD but it makes installing a bit faster.
-6. Press the play button to begin.
-7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
-8. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+2. Press the download button on Anvil and wait for it to download.
+3. Set the installation folder to be somewhere like C:\Games\Anvil. **Do not install it to your desktop or downloads folder.**
+4. The download location does not need to be on a SSD but it makes installing a bit faster.
+5. Press the play button to begin.
+6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 ***
 
