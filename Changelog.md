@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.1
+- **Potentially not save compatible**
+- Fixed lod issue with the new Windmills
+
+### Updated
+- Address Library for SKSE
+- Anvil Resources
+- Lod Model Library
+
+### Removed
+- SMIM Windmill Sails optimised
+
 ## 1.0 - "...The End is never the End..."
 - **Not Save Compatible - Large Update**
 - **Anvil is now a featured list on Wabbajack!**
