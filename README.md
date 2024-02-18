@@ -59,7 +59,7 @@ Anvil requires a mid-tier modern system to run to its fullest potential. The rec
 | Storage | SSD
 | GPU | 6GB VRAM 
 
-Space required: Approx 116GB (Downloads included) + 30GB working room for Wabbajack.
+Space required: Approx 121GB (Downloads included) + 30GB working room for Wabbajack.
 
 :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
@@ -140,9 +140,9 @@ Anvil also utilizes Root Builder alongside Stock Game to enable easier managemen
 
 ### Post Processing
 
-Anvil uses [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) with lighting governed by [Skyim is Luminous - Ominous Option](https://www.nexusmods.com/skyrimspecialedition/mods/110471). These are method patched and easy enough to remove should you wish to switch to something else.
+Anvil uses [Aequinoctium - Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/15884) with lighting governed by [Skyim is Luminous - Ominous Option](https://www.nexusmods.com/skyrimspecialedition/mods/110471). These are method patched and easy enough to remove should you wish to switch to something else.
 
-The list comes with [Rudy ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/4796) as the main post processing option. The only changes made are to the screenshot format, adjusting the water section to reduce seamage and turning off Ambient Occlusion. Should you wish to change this, is is easy to adjust or remove the ENB.
+The list comes with [Silent Horizons 2 ENB](https://www.nexusmods.com/skyrimspecialedition/mods/99398) as the main post processing option. The only changes made are to the screenshot format. Should you wish to change this, is is easy to adjust or remove the ENB.
 
 [Amethyst - Weathers and Reshade preset for Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/994502) is also included and fully set up and ready to use. This is easy to change and remove should you wish to. If you wish to use this, please enable the `Anvil - Core CS` profile.
 

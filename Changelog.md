@@ -1,5 +1,91 @@
 # Changelog
 
+## 1.1.0
+- **Not Save Safe**
+- Fixed projected diffuse on certain objects
+- Reworked vast majority of Architecture and Clutter Texture
+- Reworked Trees and Plants to simplify things and generate better overall look
+- Swapped Weather and ENB mods for better overall look
+- Adjusted Documentation where necessary
+
+### Updated
+- Anvil Resources
+- ENB Binaries
+- Keyword Item Distributor
+- Natural Waterfalls
+- Reshade Binaries
+- Skyrim Misc Fixes Pack
+- Storm Lighting
+- xLodGen
+
+### Added
+- Aequinoctium - Weathers and Seasons
+- Ancient AF Windhelm
+- Ancient AF Windhelm Fix
+- Cath 3D Mountain Flowers
+- Cath 3D Mountain Flowers BOS
+- Cath 3D Mountain Flowers Alternative Textures
+- ENB Extender
+- HD Remastered Imperial Forts
+- Illustrious Whiterun
+- Kanj's Common Books
+- KiLoader
+- Medieval Bridges
+- More Wooden Bridges
+- No Berries on Wigfrid's Reach Tree
+- Praedy's Castle Volkihar
+- Praedy's Chantry of Auriel AIO
+- Praedy's College of Winterhold
+- Praedy's Fort Dawnguard
+- Rally's All The Things
+- Rally's Burned and Ruined Books
+- Rally's Common Furniture
+- Rally's Orc Furniture
+- Rally's Solsthiem AIO
+- Rally's Spell Tomes
+- Rustic Enhanced Furniture
+- Rustic Furniture
+- Rustic Furniture UV Fix
+- Riften of Reverie
+- Silent Horizons 2
+- Skyrim Objects SMIMMED - Noble Furniture
+- Soul Cairn HD
+- Stony AF Markarth
+- Stony AF Markarth ADM Patch
+- Sublime Solitude
+- Tardis' Tents
+- Venerable Nordic Tombs
+- Weathered Bars and Countertops
+- Weathered Buckets
+- Weathered Dark Elf Furniture
+- Weathered Furniture - Common and Upper Class
+
+### Removed
+- Amon ENB Reborn
+- Ancient Dwemer Metal Skyland Patches
+- Dark Brotherhood Sanctuary Decor - Banner and Door
+- Kabloom Mountain Flowers
+- Kanj's Books AIO
+- Minimalistic Reshade by Vende
+- More Dirt Ash Snow on Roads
+- No More Blinding Fog
+- Obsidian Weathers
+- Rally's Water Foam
+- Renthal 3D Door
+- Renthal 3D Mine Door
+- Renthal 3D Castle Door
+- Renthal Chair
+- Renthal Farmtable
+- Renthal Table
+- Renthal Windmill
+- Rudy Obsidian ENB
+- Simplest Roads
+- Skyland AIO
+- Skyland AIO Forts Fix
+- Skyland Bits and Bobs
+- Skyland Happy Little Trees
+- Tardis' Draw Knife
+
 ## 1.0.1
 - **Potentially not save compatible**
 - Fixed lod issue with the new Windmills
