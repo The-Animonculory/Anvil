@@ -8,6 +8,9 @@
 
 ### Updated
 - Anvil Resources
+- DynDOLOD DLL
+- EmbersXD
+- Modular SMP Hairstyles
 - PO3 Tweaks
 - Skyrim Misc Fixes Pack
 - Sound Record Distributor
@@ -15,9 +18,6 @@
 ### Added
 - Better Blackreach Clutter
 - Diverse Farm Fences
-- DynDOLOD DLL
-- EmbersXD
-- Modular SMP Hairstyles
 - Mushrooms Revamped
 - Remove Dust Fog Smoke Mist Glow
 - SD's Farmhouse Fences
