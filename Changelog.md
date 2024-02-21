@@ -1,5 +1,29 @@
 # Changelog
 
+## 1.2.0
+- Fixed Candle Reflections
+- Fixed overly reflective mushrooms
+- Fixed Wonky Fences
+- Tweaked starting chest
+
+### Updated
+- Anvil Resources
+- PO3 Tweaks
+- Skyrim Misc Fixes Pack
+- Sound Record Distributor
+
+### Added
+- Better Blackreach Clutter
+- Diverse Farm Fences
+- DynDOLOD DLL
+- EmbersXD
+- Modular SMP Hairstyles
+- Mushrooms Revamped
+- Remove Dust Fog Smoke Mist Glow
+- SD's Farmhouse Fences
+- SSE Nif Optimzer
+- Ugly Wind and Snow Remover
+
 ## 1.1.0
 - **Not Save Safe**
 - Fixed projected diffuse on certain objects
