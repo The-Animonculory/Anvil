@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.2.1
+- Fixed Low-res warpaints
+- Fixed Modlist version
+
+### Updated
+- Skyrim Misc Fixes Pack (again)
+
+### Added
+- SC Vanilla Hair Retex
+- Vanilla Warpaints Absolution
+
 ## 1.2.0
 - Fixed Candle Reflections
 - Fixed overly reflective mushrooms
