@@ -36,7 +36,7 @@ There are `Three` profiles in Anvil, each serving a distinct purpose.
 
 ### Disclaimer
 
-Owing to the need to clean master files and certain errors with Wabbajack, Anvil only supports **English Steam** versions of Skyrim SE. **GOG and other Languages are not supported**. The specific version used is 1.6.640 with the creation club content from 1.6.1170.
+Owing to the need to clean master files and certain errors with Wabbajack, Anvil only supports **English Steam** versions of Skyrim SE. **GOG and other Languages are not supported**. The specific version used is 1.6.1170.
 
 :warning: :exclamation: **ANVIL REQUIRES THE FULL PAID UPDATE TO SKYRIM. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
 
@@ -172,8 +172,6 @@ In order to use Picta, you **Must** enable the Picta profile in MO2. Once in gam
 The Creation Kit version used in this list **WILL GENERATE PLUGINS WITH THE NEW HEADER VERSION**. Please bear this in mind when creating plugins.
 
 CK platform fixes is used to enable the Creation Kit to work with the specialised game version used in this list. Please ensure that you do not change anything in the INI without first reading what it does.
-
-:warning: **UNDER NO CIRCUMSTANCES CHANGE `bSupportFormat171` TO FALSE. THE CREATION KIT WILL FAIL TO LAUNCH OTHERWISE** :warning:
 
 To launch the creation kit, set the profile to `Anvil - Forge` and then run `Creation Platform extended`. You can also press the icon for it to run it if you wish.
 

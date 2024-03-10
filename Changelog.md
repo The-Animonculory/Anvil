@@ -164,39 +164,39 @@
 ### Removed
 - 2K Nordic & Imperial Tents
 - Acoustic Space Improvements
+- Aequinoctium - Weathers and Seasons
 - Backported ESL Support
 - Cath 3D mountain flowers
 - Cunny's 2K SMIM Furniture Improvement
 - Fantasia Landscapes
 - Fantastic Grasses and Where to Find them
 - FYX Solitude Arch
+- GDOS
 - HD reworked Trolls
+- High Poly Solsthiem Mushroom Trees
+- High Poly Trama roots
 - HQ Solitude
 - Mods superseded by Unofficial Skyrim Modders Patch
 - More Painful Death Sounds
 - Mushroom Retextures Revamped
 - Noble Furniture
 - Noble Furniture Enhanced - Quality Addon
+- Praedy's Catle Volkihar
+- Praedy's Chantry of Auriel
+- Praedy's Fort Dawnguard
 - Praedy's Winterhold
+- Project Clarity Armors
+- Project Clarity Weapons
 - Realistic Dog Sounds
 - Realistic Husky Sounds
 - Regional Sounds Expansion
+- Renthal's Old lanterns Rift
 - Reverb Interior Sounds Expansion
 - Rustic Furniture
 - Rustic Furniture UV Fix
-- Venerable Nordic Temples
-- Soul Cairn HD
-- Praedy's Catle Volkihar
-- Praedy's Fort Dawnguard
-- Praedy's Chantry of Auriel
-- High Poly Solsthiem Mushroom Trees
-- High Poly Trama roots
-- Renthal's Old lanterns Rift
 - Ships on the Horizon
-- GDOS
-- Project Clarity Weapons
-- Project Clarity Armors
-- Aequinoctium - Weathers and Seasons
+- Soul Cairn HD
+- Venerable Nordic Temples
 
 ## 1.2.1
 - Fixed Low-res warpaints
