@@ -142,30 +142,17 @@ Anvil also utilizes Root Builder alongside Stock Game to enable easier managemen
 
 #### ENB
 
-Anvil uses [Vivid Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/2187) with lighting governed by [Skyim is Luminous - Ominous Option](https://www.nexusmods.com/skyrimspecialedition/mods/110471). These are method patched and easy enough to remove should you wish to switch to something else.
+Anvil uses [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731) with lighting governed by [Skyim is Luminous - Ominous Option](https://www.nexusmods.com/skyrimspecialedition/mods/110471). These are method patched and easy enough to remove should you wish to switch to something else.
 
-The list comes with 2 ENB's to choose from. The default which most people should use is [Organic ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2876). This is enabled by default on the `Anvil - Core` profile.
-
-The second option, which is graciously provided by Ashley, is [Picta Realis](https://www.nexusmods.com/skyrimspecialedition/mods/101443). This is **only** for advanced users/screenarchers to use, due to additional pre-setup required. Please see the [Picta](#picta) section for more details.
+The list comes with [Azurite Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/103633). The ENB is configured without the letterbox and for the lighting mod. The ENB is enabled by default on the `Anvil - Core` profile.
 
 #### Community Shaders
 
-For those that wish to use Community Shaders/Reshade, [Dawnshade](https://www.nexusmods.com/skyrimspecialedition/mods/112666) is also included and fully set up and ready to use. This is easy to change and remove should you wish to. If you wish to use this, please enable the `Anvil - Core CS` profile.
+For those that wish to use Community Shaders/Reshade, [BBT Reshade for Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/100319) is also included and fully set up and ready to use. This is easy to change and remove should you wish to. If you wish to use this, please enable the `Anvil - Core CS` profile.
 
 **NOTE**: Screenshots save to `Overwrite\Game Root`. Photos taken using Photo mode save to `\Documents\My Games\Skyrim Special Edition\Photos`.
 
 **NOTE**: By default, the list is **capped at 82fps**. To change this, disable `Display Tweaks - Anvil Tweaks` and set your new cap in the `ini` file in `SSE Display Tweaks`. Make to disable the framerate lock in ENB if you are using the `Anvil - Core` profile.
-
-***
-
-#### Picta
-
-In order to use Picta, you **Must** enable the Picta profile in MO2. Once in game, after loading out into the worldspace, you **MUST** do the following.
-
-1. Open the console
-2. Type in `RCC` and press enter. This will update the weathers the game can use and will enable Picta to run properly.
-
-:warning: **Warning**: Picta is currently incomplete and is missing some weathers. It is only included for Screenarchery and not intended for gameplay. :warning:
 
 ## The Creation Kit on "Forge"
 
@@ -231,7 +218,6 @@ Simply delete the folder, and you have uninstalled it.
 - The Aetherius Modding Team.
 - The beta testers on Aetherius Modding.
 - Brotherhood of crêpe for support.
-- WeatherPainterAshley for a special version of Picta.
 - Noggog for Mutagen.
 - xSlim & Aosana for proofreading documentation.
 - Umgak for help patching.

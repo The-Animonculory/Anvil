@@ -43,6 +43,9 @@
 - Animals Swim (Sort Of)
 - Arcs Dragon Masks Redux
 - Arcs Wispmother Redux
+- Azurite Horizons
+- Azurite Mists
+- Azurite Weathers
 - Better Blackreach Clutter
 - Blackreach Eerie Ambiance
 - Blackreach Fern to Dawnguard Plant
@@ -99,8 +102,6 @@
 - NPCs Ain't Hachiko's
 - Octagon Texture tool
 - Open Animation Replacer - IED Conditions
-- Organic ENB
-- Picta Realis [Custom curated version for ANVIL]
 - Polar Peaks
 - Rally's Crates
 - Rally's Dark Elf Furniture
@@ -136,7 +137,6 @@
 - Vanilla Item Descriptions
 - Verdant
 - Vibrant Weapons
-- Vivid Weathers
 - WD Barrels
 - Weapon Styles - DrawSheathe Animations for IED
 - Whales Off The Coast
