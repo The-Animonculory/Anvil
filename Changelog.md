@@ -22,6 +22,7 @@
 - Weathers & ENB Setup
 
 ### Updated
+- Better Vanilla Gravestones
 - CK platform extended
 - Console++
 - DynDOLOD DLL NG
@@ -35,8 +36,10 @@
 - PO3 Papyrus Tweaks
 - PO3 Tweaks
 - Unofficial Skyrim Special Edition Patch
+- Vanilla Hair Remake
 
 ### Added
+- Ambient Warfare
 - Amidianborn Armors
 - Amidianborn Weapons
 - Andrealphus' Disarming Overhaul
@@ -141,6 +144,7 @@
 - Weapon Styles - DrawSheathe Animations for IED
 - Whales Off The Coast
 - Which Key NG
+- Whispering Tomes of Apocrypha
 - WICO
 - WICO Updated & Fixed
 - Wildwood Echoes
