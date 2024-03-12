@@ -28,6 +28,7 @@
 - DynDOLOD DLL NG
 - Help Extender
 - Iconic's Dragons
+- Keyword Item Distributor
 - Main Menu Randomizer
 - MCM Helper
 - More Informative Console
