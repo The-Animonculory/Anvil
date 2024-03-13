@@ -1,5 +1,208 @@
 # Changelog
 
+## 2.0 - "The reforging"
+- **Major Engine Update - NOT SAVE SAFE**
+- **Major repatching undertaken**
+- **PLUGIN HEADERS CHANGED - BEES REQUIRED IF USING ON OLDER GAME VERSION**
+- Big thanks to Brotherhood of crêpe for support and endoresment of this update.
+
+### Fixed
+- CC patching was broken in some places. This has now been recitified.
+- MO2 slowness/errors in parts
+- Overly bright areas in some places
+- xEdit scripts not working correctly (Integrated fix posted in Aetherius Server)
+
+### Tweaked
+- Furniture textures to achieve better consistency
+- Landscape textures to achieve better blends in areas
+- Mesh overwrites in places
+- NPC & Player Character appearence
+- Renamed Patches accordingly and adjusted where required
+- Starting equipment
+- Weathers & ENB Setup
+
+### Updated
+- Better Vanilla Gravestones
+- CK platform extended
+- Console++
+- DynDOLOD DLL NG
+- Help Extender
+- Iconic's Dragons
+- Keyword Item Distributor
+- Main Menu Randomizer
+- MCM Helper
+- More Informative Console
+- Natural Waterfalls
+- Papyrus Util
+- PO3 Papyrus Tweaks
+- PO3 Tweaks
+- Unofficial Skyrim Special Edition Patch
+- Vanilla Hair Remake
+
+### Added
+- Ambient Warfare
+- Amidianborn Armors
+- Amidianborn Weapons
+- Andrealphus' Disarming Overhaul
+- Animals Swim (Sort Of)
+- Arcs Dragon Masks Redux
+- Arcs Wispmother Redux
+- Azurite Horizons
+- Azurite Mists
+- Azurite Weathers
+- Better Blackreach Clutter
+- Blackreach Eerie Ambiance
+- Blackreach Fern to Dawnguard Plant
+- Born in a Barn - Door Curtains for Shacks
+- Cathedral - 3D Clover
+- Cathedral - 3D Snowberries
+- Cathedral - 3D Sword Fern
+- Creation Club Descriptions
+- Consistent Lake Ships
+- Cunny's Bars and Counters
+- DawnShade Reshade
+- Deiform Alduin
+- Description Framework
+- Distant Dragon Roars
+- DLC2 March of the Dead Fix
+- Dungeon Sounds Overhaul
+- Elven Weapons for Silence
+- ElSopa Quivers Redone
+- ElSopa Quivers Resized
+- ENB Helper SE Updated
+- ENB Worldspace Weatherlists
+- Enchantable Speical Item Fix Patches
+- Essential Favorites
+- Faster Vanilla Start (FORGE ONLY)
+- Favourite Misc Items
+- Flame VFX Edit
+- Frankly HD Dawnguard
+- Frankly HD Nightingale
+- Frankly HD Thieves Guild
+- Frankly HD Shrouded Armor
+- Frost VFX Edit
+- Handy crafting and spells
+- Heimskir Only Preaches on Weekends
+- Hide Quest Items in Container Menu
+- I'm Walkin Here NG
+- Immersive Dragons
+- JohnSkyrim Dwemer Items
+- Kezyma's Curation Club
+- KG's Elves Ear Replacer
+- KG's Frost Mirriam
+- Kinda Believable CC Weapons
+- Less Sniperlike NPCS
+- Mannequin Management
+- MoreHud
+- MoreHud Inventory Edition
+- Murder of Songbirds
+- Neutral Whiterun Guards
+- No Grassias
+- No Grass in Cities
+- No Grass in Caves
+- No Swing Warnings when wielding tools
+- Noble Solitude (With AgentW's Fixes)
+- Nordic Winds
+- NPCs Ain't Hachiko's
+- Octagon Texture tool
+- Open Animation Replacer - IED Conditions
+- Polar Peaks
+- Rally's Crates
+- Rally's Dark Elf Furniture
+- Rally's Display Cases
+- Rally's Market Stalls
+- Rally's Noble Furniture
+- Rally's Upper Furniture
+- Rally's Weapon Racks
+- Realistic Paper Parchment and Scroll Texture
+- Redbag's Improved Farmhouse Doors
+- Redbag's Improved Solitude Arch
+- Redbag's Improved Solitude Walls
+- Redbag's Improved Theater Mesh
+- Rock Traps Trigger Fixes
+- Silent Horizons 2 Shader Core
+- Skyland AIO (Custom selected portions)
+- Skyland AIO Forts Fix
+- Skyland Landscapes Complex Parallax
+- Skyrim 3D Plants (Heavily customized)
+- Slightly Better Scrolls
+- SMP-NPC crash fix
+- SMP Wind
+- Source of Stahlrim Quest Fix
+- Sowables of Skyrim - Wheat
+- Subtitles
+- Subtypes of Snowberries
+- Thrones of Skyrim
+- To Your Face
+- Troll by Kajuan
+- Truly Neutral Prisoners
+- Unofficial Skyrim Modders Patch
+- USSEP Frost and Fire dragon correction
+- Vanilla Item Descriptions
+- Verdant
+- Vibrant Weapons
+- WD Barrels
+- Weapon Styles - DrawSheathe Animations for IED
+- Whales Off The Coast
+- Which Key NG
+- Whispering Tomes of Apocrypha
+- WICO
+- WICO Updated & Fixed
+- Wildwood Echoes
+- Xavbio Ancient Falmer Armors & Weapons
+- Xavbio Carved Nordic Armors & Weapons
+- Xavbio Chitin Armors Retexture
+- Xavbio Daedric Armors & Weapons
+- Xavbio Dragon Armors & Weapons
+- Xavbio Ebony Armors & Weapons
+- Xavbio Forsworn Armors & Weapons
+- Xavbio Glass Armors & Weapons
+- Xavbio Guard Armors & Weapons
+- Xavbio Imperial Armors & Weapons
+- Xavbio Robes Retexture
+- Xavbio Silver Armors & Weapons
+- Xavbio Spell Knight Armors Retexture
+- Xavbio Stahlrim Armors & Weapons
+- Xavbio Unique Armors & Weapons
+- Xavbio Vampire Armors & Weapons
+
+### Removed
+- 2K Nordic & Imperial Tents
+- Acoustic Space Improvements
+- Aequinoctium - Weathers and Seasons
+- Backported ESL Support
+- Cath 3D mountain flowers
+- Cunny's 2K SMIM Furniture Improvement
+- Fantasia Landscapes
+- Fantastic Grasses and Where to Find them
+- FYX Solitude Arch
+- GDOS
+- HD reworked Trolls
+- High Poly Solsthiem Mushroom Trees
+- High Poly Trama roots
+- HQ Solitude
+- Mods superseded by Unofficial Skyrim Modders Patch
+- More Painful Death Sounds
+- Mushroom Retextures Revamped
+- Noble Furniture
+- Noble Furniture Enhanced - Quality Addon
+- Praedy's Catle Volkihar
+- Praedy's Chantry of Auriel
+- Praedy's Fort Dawnguard
+- Praedy's Winterhold
+- Project Clarity Armors
+- Project Clarity Weapons
+- Realistic Dog Sounds
+- Realistic Husky Sounds
+- Regional Sounds Expansion
+- Renthal's Old lanterns Rift
+- Reverb Interior Sounds Expansion
+- Rustic Furniture
+- Rustic Furniture UV Fix
+- Ships on the Horizon
+- Soul Cairn HD
+- Venerable Nordic Temples
+
 ## 1.2.1
 - Fixed Low-res warpaints
 - Fixed Modlist version

@@ -36,7 +36,7 @@ There are `Three` profiles in Anvil, each serving a distinct purpose.
 
 ### Disclaimer
 
-Owing to the need to clean master files and certain errors with Wabbajack, Anvil only supports **English Steam** versions of Skyrim SE. **GOG and other Languages are not supported**. The specific version used is 1.6.640 with the creation club content from 1.6.1170.
+Owing to the need to clean master files and certain errors with Wabbajack, Anvil only supports **English Steam** versions of Skyrim SE. **GOG and other Languages are not supported**. The specific version used is 1.6.1170.
 
 :warning: :exclamation: **ANVIL REQUIRES THE FULL PAID UPDATE TO SKYRIM. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
 
@@ -59,7 +59,7 @@ Anvil requires a mid-tier modern system to run to its fullest potential. The rec
 | Storage | SSD
 | GPU | 6GB VRAM 
 
-Space required: Approx 121GB (Downloads included) + 30GB working room for Wabbajack.
+Space required: Approx 145GB (Downloads included) + 30GB working room for Wabbajack.
 
 :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
@@ -114,7 +114,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
-    - **Make sure you have downloaded all the Paid AE update content!**
+    - **Make sure you have downloaded all the Paid AE update content from within the game!**
 	- Make sure you have the Creation Kit installed. Go back to [Pre-Installation](#pre-installation) and read it properly this time.
 
 - x is not a whitelisted download:
@@ -136,19 +136,24 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 Anvil utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
 
 Anvil also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
+
 ***
 
 ### Post Processing
 
-Anvil uses [Aequinoctium - Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/15884) with lighting governed by [Skyim is Luminous - Ominous Option](https://www.nexusmods.com/skyrimspecialedition/mods/110471). These are method patched and easy enough to remove should you wish to switch to something else.
+Anvil uses [Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731) with lighting governed by [Skyim is Luminous - Ominous Option](https://www.nexusmods.com/skyrimspecialedition/mods/110471). These are method patched and easy enough to remove should you wish to switch to something else.
 
-The list comes with [Silent Horizons 2 ENB](https://www.nexusmods.com/skyrimspecialedition/mods/99398) as the main post processing option. The only changes made are to the screenshot format. Should you wish to change this, is is easy to adjust or remove the ENB.
+The list comes with [Azurite Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/103633). The ENB is configured without the letterbox and for the lighting mod. The ENB is enabled by default on the `Anvil - Core` profile.
 
-[Amethyst - Weathers and Reshade preset for Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/994502) is also included and fully set up and ready to use. This is easy to change and remove should you wish to. If you wish to use this, please enable the `Anvil - Core CS` profile.
-
-**NOTE**: Screenshots save to `Overwrite\Game Root`.
+For those that wish to use Community Shaders/Reshade, [BBT Reshade for Azurite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/100319) is also included and fully set up and ready to use. This is easy to change and remove should you wish to. If you wish to use this, please enable the `Anvil - Core CS` profile.
 
 **NOTE**: By default, the list is **capped at 82fps**. To change this, disable `Display Tweaks - Anvil Tweaks` and set your new cap in the `ini` file in `SSE Display Tweaks`. Make to disable the framerate lock in ENB if you are using the `Anvil - Core` profile.
+
+***
+
+### Screenshots
+
+Screenshots save to `Overwrite\Game Root`. Photos taken using Photo mode save to `\Documents\My Games\Skyrim Special Edition\Photos`.
 
 ## The Creation Kit on "Forge"
 
@@ -156,15 +161,13 @@ The Creation Kit version used in this list **WILL GENERATE PLUGINS WITH THE NEW 
 
 CK platform fixes is used to enable the Creation Kit to work with the specialised game version used in this list. Please ensure that you do not change anything in the INI without first reading what it does.
 
-:warning: **UNDER NO CIRCUMSTANCES CHANGE `bSupportFormat171` TO FALSE. THE CREATION KIT WILL FAIL TO LAUNCH OTHERWISE** :warning:
-
 To launch the creation kit, set the profile to `Anvil - Forge` and then run `Creation Platform extended`. You can also press the icon for it to run it if you wish.
 
 ## Playing the List
 
 ### Ultrawide Setup
 
-To enable 21x9 ultrawide support, activate the two mods tagged `21x9` under `UI Fixes [Forge & Core]`. **NOTE**: Resolutions outside of 21x9 and 16x9 are **NOT** supported.
+To enable 21x9 ultrawide support, activate the two mods under `21x9` section. **NOTE**: Resolutions outside of 21x9 and 16x9 are **NOT** supported.
 
 ### Real-time performance monitoring
 
@@ -188,7 +191,13 @@ You are welcome to change any others to achieve your desired setup.
 
 ### Starting the Game
 
-By default, Anvil uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953) to bypass the cart ride and start the game in the Helgen Cave. A message will pop-up asking you to chose whether to Skip the intro (Press `Yes`) and then, after character creation, Hadvar or Ralof. Choose your preferred companion and then the game will play out as if you made that choice before entering.
+#### Core
+
+By default, the core profile uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953) to bypass the cart ride and start the game in the Helgen Cave. A message will pop-up asking you to chose whether to Skip the intro (Press `Yes`) and then, after character creation, Hadvar or Ralof. Choose your preferred companion and then the game will play out as if you made that choice before entering.
+
+#### Forge
+
+Forge comes with [Faster Vanilla Start](https://www.nexusmods.com/skyrimspecialedition/mods/72890) to enable a fast load into the game world to test things out. You will spawn into the end of the Helgen Cave (with the bear). A message will pop-up asking you to chose Hadvar or Ralof (**YOU MUST SELECT HADVAR - RALOF DOES NOT FUNCTION PROPERLY**) to allow the game to play out as if you made that choice before entering. A gate is added to prevent you going backwards into the keep from your start position.
 	
 ## Updating the modlist
 
@@ -212,8 +221,10 @@ Simply delete the folder, and you have uninstalled it.
 
 - _YOU_ for reading this.
 - Ferroxius for the logo, splash and ensuring focus.
+- <a href="https://www.flaticon.com/free-icons/anvil" title="anvil icons">Anvil icon created by Nikita Golubev - Flaticon</a>
 - The Aetherius Modding Team.
 - The beta testers on Aetherius Modding.
+- Brotherhood of crêpe for support.
 - Noggog for Mutagen.
 - xSlim & Aosana for proofreading documentation.
 - Umgak for help patching.
