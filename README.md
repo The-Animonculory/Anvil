@@ -137,6 +137,8 @@ Anvil utilizes a Wabbajack technology called Stock Game. What this essentially d
 
 Anvil also utilizes Root Builder alongside Stock Game to enable easier management of hooks such as ENB, Reshade and Engine Fixes. Please see our guide to [Root Builder](https://github.com/The-Animonculory/Modding-Resources/blob/main/Root%20Builder%20for%20Skyrim%20AE.md) for more details.
 
+:warning: :exclamation: **UNDER NO CIRCUMSTANCES PRESS THE UNLOCK BUTTON WHEN YOU HAVE LOADED SOMETHING THROUGH MOD-ORGANIZER. YOU WILL BREAK MANY MANY THINGS. DO NOT ORESS THE BUTTON!** :warning: :exclamation:
+
 ***
 
 ### Post Processing
@@ -179,6 +181,8 @@ Anvil includes a mod that enables you to see your FPS and VRAM usage in real-tim
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
 Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button.
+
+:warning: :exclamation: **UNDER NO CIRCUMSTANCES PRESS THE UNLOCK BUTTON WHEN YOU HAVE LOADED SOMETHING THROUGH MOD-ORGANIZER. YOU WILL BREAK MANY MANY THINGS. DO NOT PRESS THE BUTTON!** :warning: :exclamation:
 
 ### In-game MCM options
 
