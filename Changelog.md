@@ -1,5 +1,51 @@
 # Changelog
 
+## 2.1 - "Upgrades people, Upgrades..."
+
+### Info
+- Bumped MO2 version to enable usage of newer plugins. Overall performance seems fine, please report any issues.
+- Re-added seperators on right pane for easier navigation
+- Split CS section into CS and Reshade to enable easier navigation
+- Hopefully fixed CTD issues with certain DLL plugins.
+
+### Updated
+- Better Vanilla Gravestones
+- Born in a Barn - Door Curtains for Shacks
+- Community Shaders
+- Complex parallax Materials
+- Enhanced Blood Textures
+- Grass Lighting
+- Landscape Fixes for Grass Mods
+- Light Limit Fix
+- Mod Organizer 2
+- Nif Preview
+- Open Animation Replacer
+- Particle Patch for ENB
+- Screen-Space Shadows
+- Subtitles
+- Tree LOD Lighting
+- Vanilla Hair Remake
+
+### Added
+- Bethesda Plugin Manager
+- Dynamic Cubemaps
+- Dynamic Cubemaps - Metal
+- DynDOLOD DLL (NON NG)
+- Optimised Scripts for Enhanced Blood Textures
+- PAPER
+- Primula Vulgaris - A 3D Mountain Flower Replacer
+- Rally's Barsets
+- Subsurface Scattering
+- Water Caustics
+- Water Parallax
+- Wetness Effects
+
+### Removed
+- Cunny's Bars and Counters
+- Curation Club (Not required anymore due to mature setup)
+- DynDOLOD DLL NG (Reports of incompatibilities and crashes - Unable to 100% verify but removing for now)
+- Native EditorID Fix (Incompatible with Simple Dual Sheath due to EditorID changes - Issue reported to Kitsune)
+
 ## 2.0 - "The reforging"
 - **Major Engine Update - NOT SAVE SAFE**
 - **Major repatching undertaken**
