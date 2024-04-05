@@ -221,6 +221,9 @@ To get some more FPS, tweak the following value in the detail section in BethINI
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
 
+## "Is it safe to add (X)?"
+No mod has been shown to be fatal, however if you find the game running to be intrinsic to your well being, adding any mod at random will reduce your quality of life. You are more than welcome to try, I'm not your dad, but support is all on you. I physically can't test on every iteration of every computer build since 1989. Rule 11 means if you change it you're on your own but your expectations are not rooted in reality.
+
 ## Credits and Thanks
 
 - _YOU_ for reading this.
