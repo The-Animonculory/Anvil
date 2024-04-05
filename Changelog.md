@@ -1,5 +1,60 @@
 # Changelog
 
+## 2.2 - "uLtRaFiXeD - My Patches Edition"
+
+### Fixes
+- Fixed Windhelm snow lod (Thanks to Sheson)
+- Fixed blending in some areas
+- Fixed Fence issues
+
+### Updated
+- Animated Ice Floes
+- Anvil Resources
+- Azurite Horizons
+- Crashlogger
+- Community Shaders
+- Complete Widescreen Fix for Vanilla & SkyUI
+- DALC Fix Preset
+- DynDOLOD (Resources & Application)
+- EmbersXD
+- Photo Mode
+- Skyrim Scenery Main Menu
+- Synthesis
+- Unofficial Skyrim Modders Patch
+- Vanilla Hair Remake
+- Wetness Effects
+- Xavbio Ebony Armors & Weapons
+- Xavbio Glass Armors & Weapons
+
+### Added
+- Better Argonian horns
+- Children of the Hist
+- Cover Khajiits
+- Faithful Faces - Creation Club
+- Faithful Faces - NPC Overhaul
+- Forgotten Argonian Roots
+- HD Remastered Blended Roads
+- HD Remastered Bridges
+- HD Remastered Landscapes
+- imGui Icons
+- MO2 Audio Player
+- Project Clarity Clutter
+- Project Clarity Effects
+- Project ja-Kha'jay
+- Reverie
+- Simply Skin - Male
+- Unique Wooden Bridges - Base Object Swapper
+- Vanilla Warpaints Absolution
+
+### Removed
+- Cleaned Skyrim Textures [Anvil is at the point that it doesn't need them. It just wastes space having it.]
+- Cleaned textures fixes [Not needed due to not having Cleaned]
+- Diverse Farm Fences [Broken normals on mod - Will Re-Add when fixed]
+- Fix Black aspen branches [Recoloured the trees to be wrong]
+- More Wooden Bridges [Skeever strikes again]
+- Remove Dust Fog Smoke Mist Glow [Errors with DynDOLOD meshes]
+- WICO [It's... aight but there's better]
+
 ## 2.1 - "Upgrades people, Upgrades..."
 
 ### Info
